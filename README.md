@@ -10,3 +10,4 @@ delete_employee() function deleted the employee on the basis of employee ID.
 list_employees()function displays list of all the employees in the tabular format.
 
 Inside these functions on few places return is used to return the control to the while loop if the employee is found and the necessary operation is performed successfully. If the employee is not found then this return statement will not be executed as the control will not come inside the if block then a message Employee not found is displayed to the user.
+empolyess can built analysis data
